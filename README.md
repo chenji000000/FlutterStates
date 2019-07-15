@@ -41,3 +41,5 @@ BLoC是一种利用reactive programming方式构建应用的方法，这是一�
 
 
 
+[provider](https://juejin.im/post/5d00a84fe51d455a2f22023f)
+Provider 从名字上就很容易理解，它就是用于提供数据，无论是在单个页面还是在整个 app 都有它自己的解决方案，我们可以很方便的管理状态。可以说，Provider 的目标就是完全替代 StatefulWidget。
